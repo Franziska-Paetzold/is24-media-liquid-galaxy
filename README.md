@@ -54,7 +54,7 @@ http 'http://10.200.144.22:88/search-enable?realEstateType=ApartmentRent&maxPric
 http 'http://10.200.144.22:88/search-enable?realEstateType=ApartmentBuy&maxPrice=1500000&minArea=80'
 ```
 
-get current internal state of search api:
+get current internal state of search api 
 ```
 http 'http://10.200.144.22:88/status'
 ```
